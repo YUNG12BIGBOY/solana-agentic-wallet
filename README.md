@@ -55,7 +55,7 @@ Key backend modules:
 ### 1. Backend
 
 ```powershell
-cd c:\Users\kerter\workspace\agentic-wallet\backend\src
+cd c:\..\..\backend\src
 copy .env.example .env
 npm.cmd install
 npm.cmd run dev
@@ -64,7 +64,7 @@ npm.cmd run dev
 ### 2. Frontend
 
 ```powershell
-cd c:\Users\kerter\workspace\agentic-wallet\frontend
+cd c:\..\..\frontend
 npm.cmd install
 npm.cmd run dev
 ```
