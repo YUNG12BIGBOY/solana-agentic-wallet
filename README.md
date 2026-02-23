@@ -2,6 +2,100 @@
 
 Production-structured autonomous AI wallet that can create wallets, evaluate AI trade decisions, enforce risk policy, sign transactions, interact with DeFi protocols, and stream real-time execution logs to a React dashboard.
 
+Step 1: Clone the repo
+
+Open a terminal (Command Prompt, PowerShell, or Git Bash):
+
+git clone https://github.com/YUNG12BIGBOY/solana-agentic-wallet.git
+cd solana-agentic-wallet
+
+✅ This downloads the full repo and moves you into the project folder.
+
+Step 2: Set up the backend
+2.1 Navigate to the backend folder
+cd backend/src
+
+Here is where all backend source code lives.
+
+2.2 Copy the example .env
+
+Windows:
+
+copy .env.example .env
+
+Mac/Linux:
+
+cp .env.example .env
+
+This creates a .env file that the server reads for configuration.
+
+You don’t need to modify it for devnet testing. The defaults are safe for demo purposes.
+
+2.3 Install dependencies
+npm install
+
+This installs all required packages like @solana/web3.js, express, etc.
+
+2.4 Start the backend
+npm run dev
+
+The server should start and print something like:
+
+Backend running at http://localhost:4000
+
+✅ Your backend is now live locally.
+
+Frontend Setup: Step-by-Step
+Step 1: Navigate to the frontend folder
+
+After cloning your repo:
+
+cd solana-agentic-wallet/frontend
+
+This is where all the frontend code lives (package.json, vite.config.ts, src/, etc.)
+
+Step 2: Install dependencies
+npm install
+
+This installs Vite, React, and all other required packages.
+
+Watch for any warnings; most are harmless (like optional funding notices).
+
+Step 3: Connect frontend to backend (optional)
+
+The frontend uses an environment variable VITE_API_URL to know where your backend is.
+
+If you have the backend running locally on http://localhost:4000:
+
+Windows (Command Prompt):
+
+set VITE_API_URL=http://localhost:4000 && npm run dev
+
+Windows (PowerShell):
+
+$env:VITE_API_URL="http://localhost:4000"; npm run dev
+
+Mac/Linux:
+
+VITE_API_URL=http://localhost:4000 npm run dev
+
+If you don’t want backend (just to show UI), you can leave VITE_API_URL unset.
+
+The UI will still render all panels, sidebar, and layout, but API calls will fail (this is fine for demo-only purposes).
+
+Step 4: Run the dev server
+npm run dev
+
+Vite will compile and serve your frontend.
+
+Output will look like:
+
+  Local:   http://localhost:5173/
+  Network: use --host to expose
+Step 5: Open the UI in a browser
+
+Go to http://localhost:5173/
+
 ## Core Capabilities
 
 - Programmatic wallet creation and switching
