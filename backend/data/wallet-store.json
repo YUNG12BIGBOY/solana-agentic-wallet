@@ -1,0 +1,48 @@
+{
+  "activePublicKey": "49nk4xUUYxwTPRAifAvtpm73hkoCymhGWpsG2rom9V3y",
+  "wallets": [
+    {
+      "label": "Trader",
+      "publicKey": "EGrfNVRhKuHcG715yTeXN49zz91j9BvJhACE2xZbxwBZ",
+      "encryptedSecret": "aedTB46bz3r8Z6rk:Q1hWiG2UM51JFr8COlG6eg==:cTQhEgu8j0AuA734RnnrH3dK4v8PfeYnAKagTgyNkXjAPuHSqmOleYu9G3A7Xn8E/QTFujmt4DgHYT7dUsNabVylA50qpDNjJ3TNa8CmIJJXTT4Ykw9Ujg==",
+      "createdAt": "2026-02-22T22:28:02.041Z"
+    },
+    {
+      "label": "Treasury Agent",
+      "publicKey": "49nk4xUUYxwTPRAifAvtpm73hkoCymhGWpsG2rom9V3y",
+      "encryptedSecret": "mEt8vVSenQeWTmhw:7cM8v3sOzpV58GalNi9Hwg==:VPRzWgQMWQCKR00FEzJ7xZWY7IXCl6IF4BSlgSs/2ATWMVfZ0ioLW5FqfQFpHH5Cq68p6nQCyZTHptYR4tJi2kWX7Ay3rI/KbfjfgLr41mE4IbOt/h0mNA==",
+      "createdAt": "2026-02-22T22:58:13.991Z"
+    },
+    {
+      "label": "Trader Agent",
+      "publicKey": "9z94PBkTQvzCCeq9c34T1QWYFKUoEn4UpTbEgMowBosS",
+      "encryptedSecret": "KDMtTdLuVPDA+pXV:cDn+aMfRjuLlDbeuGa4OGQ==:C7KWkCg1e/DrZDzqeNG2MPqCTE715GiES9n0aZhw8ZT+7lTzStDK5QfSIwp1bpvQklVFT8NqTJcEqQwwdmeT9PD5En80TQ/6d2Pb4b4HA+CpLcD3Av2F5Q==",
+      "createdAt": "2026-02-22T22:58:15.140Z"
+    },
+    {
+      "label": "Liquidity Agent",
+      "publicKey": "GoTweS1L8mtVSkJLNaJGHFUarbPmDzarajWTrzQMxb33",
+      "encryptedSecret": "Odfk9ctSjBjosFK0:dRYsm+u+sPaWayFfiXPy/A==:ROHvhRCLmRni4WZQ79UcOFdmM+pSSi5kG4qotimxEHkfLAXZk0od38iD+AyieapgNM9Y7pebuwN45d17+2gwA+fyUVczD5lvS3wztgnVylFhLV9UIvseWA==",
+      "createdAt": "2026-02-22T22:58:15.465Z"
+    },
+    {
+      "label": "Arbitrage Agent",
+      "publicKey": "APTxtDpyCWPtZ9aKEw2ysakoTbvshypchMiUCy88UTXi",
+      "encryptedSecret": "p3E/uvSHMPfboE1W:6IJPXWh1olZLaQIdy1oGlQ==:P/jZJI+AliOJA9po66mybicCfGzgqXe9MfN3BzpczM/FnVxPmbClfmpJzZCX4sefBHgyv/+swNEkvwMXlkyx4Ootp3vyuKqx4PbJO2keh0yMIME5ylHuFQ==",
+      "createdAt": "2026-02-22T22:58:15.986Z"
+    },
+    {
+      "label": "Wallet #14",
+      "publicKey": "36y8gsZ3x3pTNYY8PToNhbsCSbviWxtn1cvwocccvXVY",
+      "encryptedSecret": "XPwcOuEfnZtMIHnl:PIjYkuUiasEGkTWDDdjXyQ==:HTKVZkVMmQaGlwuK/jK+kNJ1KRc//tJaPpf7rlSuQr3mfqDdfx6Q/bt9JMLB4KG4v1YguK7TqTwtN/hlVu/zd3YMRyrR6T5luKCFBH32A+Vqv1u3HlllAg==",
+      "createdAt": "2026-02-23T00:21:19.498Z"
+    },
+    {
+      "label": "Wallet #15",
+      "publicKey": "5uvCZC3DcBfHgPLNwJwoAdcAaPfhNvFCWUodyYdzByLh",
+      "encryptedSecret": "FKXp0j1qCG8n4GqJ:peAxlxoOvMVd0fD+LeH0Aw==:q8lC9x2dR8rcVZ3zQY4fU7wu+Sw4aS1vCnOPc1pu+qv/JBgbNa3WMEyj7Ml7ZCbg02mLTGodeBx9vp5rP9X/iHhIhJSlEEyluXu2JzGsMGjYU+bSnPrpzg==",
+      "createdAt": "2026-02-23T00:31:23.407Z"
+    }
+  ],
+  "walletNameCounter": 16
+}

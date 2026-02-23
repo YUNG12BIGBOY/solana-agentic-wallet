@@ -1,0 +1,10 @@
+{
+  "mint": "3HSuW6ukiCrYtw9UhwUxEMD19i5KKRPYbhkvfWnNhQDn",
+  "test1Mint": "CZGiKBHB8uXZ2brztfeCbzLcFENETnS6ztLcijdkRjan",
+  "test2Mint": "GGZfiFMDGY69Gpaut7AGNi2M5i9p3XK7f9kdZvQjVCm4",
+  "treasuryWallet": "49nk4xUUYxwTPRAifAvtpm73hkoCymhGWpsG2rom9V3y",
+  "initializedAt": "2026-02-23T01:40:16.326Z",
+  "initialDistributionDone": true,
+  "testPairInitializedAt": "2026-02-23T02:19:17.270Z",
+  "testPairDistributionDone": true
+}

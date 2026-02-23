@@ -1,0 +1,48 @@
+{
+  "activePublicKey": "DTBud73G2pW7CzcEtwpBDrYiweZAnLx1vqR7C3kRJoQj",
+  "wallets": [
+    {
+      "label": "Smoke Wallet",
+      "publicKey": "2WiiG5HrZwc8RbqwYP5DohpBcn5fFMa5c3fuER7fjPpA",
+      "encryptedSecret": "nLqf0E3pAf+O6A1y:+XLjaAkQdDisw2ds8IBMpQ==:t60gS431zMfikzimAVvMPMUQmapFX/DjFFLmUZiKucp5auOF3vVZ8s0Cd/YWZTeEbyGj5wXywXOr9u3tOV5XMv43DJNLQJ/cvtEvGMkTgSgHxZHys+gYMA==",
+      "createdAt": "2026-02-22T02:06:27.971Z"
+    },
+    {
+      "label": "Smoke Wallet 2",
+      "publicKey": "D9AVcSNGiXfANBs271ZuTLsUmnQ9A1Lkv6Md6nseLaf6",
+      "encryptedSecret": "UwCr7l8F8RHDp4aM:0wN0zs7MxUvQUEGcld/YXg==:+A8VgBlTWNWt95R4OrzfnmMVIOpx3m9Txj5W7rhg86Lzxd9yYYWwRpkMaor1QecKhaF4XddOPnJFnPv8Exmfn03j29nbQ0M/N/csfMGPUl5heVtx4JEiGg==",
+      "createdAt": "2026-02-22T02:07:02.148Z"
+    },
+    {
+      "label": "Smoke Wallet 3",
+      "publicKey": "5v5uZJxAz8gB2XkPnhkUPk8SXdTg5eiLm7hWj9oQ4RdF",
+      "encryptedSecret": "LjgVKMu8VUK8ases:0F+tVfWGcHILAeFrzl8wuA==:VhYPfLxeyuDgemYN8A5RWjdeq+SluOSLGGOrWhqBAtxzu2/REsBk4E75Yl/lfArYWviC2YH6vMVbFHncyDdr1QqGh2i4HtuRP2kX0Xs4AsPLO8SolBZuNQ==",
+      "createdAt": "2026-02-22T02:08:17.075Z"
+    },
+    {
+      "label": "Treasury Agent",
+      "publicKey": "Ep3JcPustJnWQoke45FHRvjdyGuzTFtFR4t1Doe7VHVu",
+      "encryptedSecret": "yzeSl70XEusD2YBj:gYkMYC1ce3l52iUpcPadlg==:XVpDkyvHWc+91gEeTISr/vJ6F5kjjE4oUri4lCO4p7OVof2aCLW1K68fUvn+Sq6fgFNuJT/5Rcxxzm6unOqpgd5H458v27XTIiaxdBUiMouhWm8jbzysuA==",
+      "createdAt": "2026-02-23T01:38:04.203Z"
+    },
+    {
+      "label": "Trader Agent",
+      "publicKey": "2y8JLqrJWPbrCkMwc1SQZRiHWJZW2qDCBwgP6ywnCrV8",
+      "encryptedSecret": "kyMm7MjMIwy5mLj4:+7kJ+BS+qp1my6+PeswdNA==:8JdKUWisyaCCP/Y7DC/aJRAKpotUSrAow2M7sOp0/uNq2/2+ekU/HNyy1SZxov+tCRjumq+RatUJNYpfMlu7VISiceqi8BpInV/sbCBIR/GUTXRXAgzKow==",
+      "createdAt": "2026-02-23T01:38:05.186Z"
+    },
+    {
+      "label": "Liquidity Agent",
+      "publicKey": "ESF5Miv3yrDQQwUMPpf32MV1DFDGbJqpzf7ptzTrjdj1",
+      "encryptedSecret": "8n2H5FCkKYeLAO86:pzaqY3c9SvF7Ov137i9AVg==:1h6cUjyE8w3/oMTyD1UMQWAgXZc4h3XhJVSBtC2KflaE0AJukEDQcQIbsT8Vbk/kJQBmjtddYdGjXDfNaQ/DxNd+qRCNHBKcR+j/8PmSEhSw65acIYJ8nw==",
+      "createdAt": "2026-02-23T01:38:05.398Z"
+    },
+    {
+      "label": "Arbitrage Agent",
+      "publicKey": "DTBud73G2pW7CzcEtwpBDrYiweZAnLx1vqR7C3kRJoQj",
+      "encryptedSecret": "CZOzpW7RxFRKuL8K:ruFg36bY8z5AY3UEGLvYKA==:BRmmjS/36NbX/KtlZxRyooeKkL8PiJr0wBxiH10Qs8124WWygnfH59XCrJmV164zqkoO09FVWsuC7age+MfgSMyM9DJZiVcZhMS/I2phrSSjAAHzimet0Q==",
+      "createdAt": "2026-02-23T01:38:05.607Z"
+    }
+  ],
+  "walletNameCounter": 1
+}

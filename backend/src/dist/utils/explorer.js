@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.toAddressExplorerUrl = exports.toExplorerUrlForCluster = exports.toExplorerUrl = void 0;
+const env_1 = require("../config/env");
+const buildClusterParam = (cluster) => `?cluster=${cluster}`;
+const toExplorerUrl = (signature) => `https://explorer.solana.com/tx/${signature}${buildClusterParam(env_1.env.solanaCluster)}`;
+exports.toExplorerUrl = toExplorerUrl;
+const toExplorerUrlForCluster = (signature, cluster) => `https://explorer.solana.com/tx/${signature}${buildClusterParam(cluster)}`;
+exports.toExplorerUrlForCluster = toExplorerUrlForCluster;
+const toAddressExplorerUrl = (address) => `https://explorer.solana.com/address/${address}${buildClusterParam(env_1.env.solanaCluster)}`;
+exports.toAddressExplorerUrl = toAddressExplorerUrl;
